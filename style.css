@@ -92,7 +92,7 @@ nav{
     position:absolute;
     top: 50%;
     left: 35%;
-    transform: translate(-50%);
+    transform: translateY(-50%);
     z-index: 1;
 }
 .controls{
